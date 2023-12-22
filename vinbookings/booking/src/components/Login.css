@@ -1,0 +1,53 @@
+.contain{
+   
+    display:flex;
+    background-image: url("https://png.pngtree.com/background/20220716/original/pngtree-film-festival-black-gold-atmosphere-award-poster-picture-image_1634891.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.register
+{
+    margin:40px 10px 40px 10px;
+    height:550px;
+    width: 300px;
+   box-shadow: 10px 10px 10px 10px;
+   border:2px solid ;
+   padding: 30px;
+   background-color:white;
+   text-align: center;
+}
+
+input[type='password'],input[type='email']{
+    border-radius: 10px;
+    border-color: rgb(247, 249, 248);
+    margin: 3px;
+    padding: 12px;
+    caret-color:rgb(18, 94, 85);
+    }
+#but{
+    background-color: rgb(27, 112, 98);
+    color:rgb(41, 236, 232);
+    
+    }
+    input{
+        color:rgb(15, 19, 16);
+    }
+    #email{
+    margin-left:20px;
+    }
+    .lab{
+        color:rgb(17, 27, 18);  
+    }
+    h2{
+        font-size: 60px;
+    
+        font-family: 'Comfortaa',cursive;
+    }
+    .h {
+        color: black;
+    }
+    
